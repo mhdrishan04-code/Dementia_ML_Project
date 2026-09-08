@@ -2,6 +2,12 @@
 
 An educational machine-learning project that classifies the `Dementia` target from patient health data.
 
+## 🚀 Live Streamlit App
+
+**Try the deployed application:**
+
+👉 https://dementiamlproject-6t69qh5sgnadxlldbofpof.streamlit.app/
+
 ## Dataset
 - 1,000 records and 24 columns
 - Target: `Dementia` (0 = No Dementia, 1 = Dementia)
